@@ -11,7 +11,8 @@ Welcome! I am Philipe and I am currently finishing my Systems Information degree
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my degree on Systems Information 
+- Finish my degree on Systems Information
+- Getting better practices while improving my currently main project [The Pure Javascript Pokedex](https://github.com/philipep-galdino/pokedex-pure-js)
 - Learning more about Javascript and NodeJS
 - Improving myself as a volunteer at [The Privoce Project](https://github.com/Privoce)
 
