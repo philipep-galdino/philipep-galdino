@@ -15,7 +15,7 @@ Welcome! I am Philipe and I am currently finishing my Systems Information degree
 - Getting better practices while improving my currently active projects.
 - Learning more about Javascript and NodeJS
 - Improving myself as a volunteer at [The Privoce Project](https://github.com/Privoce)
-- Learning with the top of the cream @ [Sqed](https://www.sqed.com.br/) Engineering Team
+- Learning & Improving with the top of the cream @ [Sqed](https://www.sqed.com.br/) Engineering Team
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
