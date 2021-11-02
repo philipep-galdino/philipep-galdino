@@ -11,17 +11,16 @@ Welcome! I am Philipe and I am currently finishing my Systems Information degree
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my degree on Systems Information
 - Getting better practices while improving my currently active projects.
-- Learning more about Javascript and NodeJS
-- Improving myself as a volunteer at [The Privoce Project](https://github.com/Privoce)
+- Getting my learning curve in the programming world up and down
+- Impacting lives one NFT at a time @ [DIYnamo](https://github.com/Diynamo) as a Backend Engineer
 - Learning & Improving with the top of the cream @ [Sqed](https://www.sqed.com.br/) Engineering Team
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Taking the 100 days of code challenge 
 - Going to the Gym daily
-- Learning a new thing everyday
+- Learning a new thing about blockchain everyday
+- Improving my backend skills on both NodeJS and Python
 
 #### :computer: Programming languages and tools: 
 <p>
