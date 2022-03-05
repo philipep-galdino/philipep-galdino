@@ -14,7 +14,7 @@ Welcome! I am Philipe and I am currently finishing my Systems Information degree
 - Getting better practices while improving my currently active projects.
 - Getting my learning curve in the programming world up and down
 - Impacting lives one NFT at a time @ [DIYnamo](https://github.com/Diynamo) as a Backend Engineer
-- Learning & Improving with the top of the cream @ [Sqed](https://www.sqed.com.br/) Engineering Team
+- Working as a Backend Engineer @ [BrainDAO](https://twitter.com/Everipedia)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
