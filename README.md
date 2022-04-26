@@ -7,7 +7,7 @@
 
 Welcome! I am Philipe and I am currently finishing my Systems Information degree at the Southwest Bahia University
 
-<img align="right" alt="img" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.discordapp.net/attachments/714895247641149523/968366745192660992/1472510760-fcdef157542933afb757f3e025f70112.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
