@@ -13,13 +13,11 @@ Welcome! I am Philipe and I am currently finishing my Systems Information degree
 #### 🌱 Things I am currently working on: 
 - Getting better practices while improving my currently active projects.
 - Getting my learning curve in the programming world up and down
-- Impacting lives one NFT at a time @ [DIYnamo](https://github.com/Diynamo) as a Backend Engineer
-- Working as a Backend Engineer @ [BrainDAO](https://twitter.com/Everipedia)
+- Working as a Backend Engineer @ [Plin Condomínios](https://twitter.com/Everipedia)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Going to the Gym daily
-- Learning a new thing about blockchain everyday
+- Going for a walk early in the morning everyday
 - Improving my backend skills on both NodeJS and Python
 
 #### :computer: Programming languages and tools: 
